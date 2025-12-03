@@ -1,4 +1,5 @@
-# yourname.domains - Global Handle Resolution Protocol (GHRP) – Open Specification and Whitepaper for universal digital identity resolution across platforms, domains, Web3 namespaces and trademark systems.
+# yourname.domains 
+Global Handle Resolution Protocol (GHRP) – Open Specification and Whitepaper for universal digital identity resolution across platforms, domains, Web3 namespaces and trademark systems.
 
 
 **GHRP** is an open conceptual protocol designed to resolve name and identity conflicts across **social media**, **DNS domains**, **Web3 namespaces**, and **trademark systems**.
